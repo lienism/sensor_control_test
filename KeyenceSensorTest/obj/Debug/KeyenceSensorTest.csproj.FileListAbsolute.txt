@@ -1,0 +1,29 @@
+C:\Users\zsf\Source\Repos\KeyenceSensorTest\bin\Debug\KeyenceSensorTest.exe.config
+C:\Users\zsf\Source\Repos\KeyenceSensorTest\bin\Debug\KeyenceSensorTest.exe
+C:\Users\zsf\Source\Repos\KeyenceSensorTest\bin\Debug\KeyenceSensorTest.pdb
+C:\Users\zsf\Source\Repos\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.Form1.resources
+C:\Users\zsf\Source\Repos\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.Properties.Resources.resources
+C:\Users\zsf\Source\Repos\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.csproj.GenerateResource.cache
+C:\Users\zsf\Source\Repos\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.csproj.CoreCompileInputs.cache
+C:\Users\zsf\Source\Repos\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.exe
+C:\Users\zsf\Source\Repos\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.pdb
+C:\Users\yang\Desktop\新しいフォルダー (5)\KeyenceSensorTest\bin\Debug\KeyenceSensorTest.exe.config
+C:\Users\yang\Desktop\新しいフォルダー (5)\KeyenceSensorTest\bin\Debug\KeyenceSensorTest.exe
+C:\Users\yang\Desktop\新しいフォルダー (5)\KeyenceSensorTest\bin\Debug\KeyenceSensorTest.pdb
+C:\Users\yang\Desktop\新しいフォルダー (5)\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.csprojAssemblyReference.cache
+C:\Users\yang\Desktop\新しいフォルダー (5)\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.Properties.Resources.resources
+C:\Users\yang\Desktop\新しいフォルダー (5)\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.csproj.GenerateResource.cache
+C:\Users\yang\Desktop\新しいフォルダー (5)\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.csproj.CoreCompileInputs.cache
+C:\Users\yang\Desktop\新しいフォルダー (5)\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.exe
+C:\Users\yang\Desktop\新しいフォルダー (5)\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.pdb
+C:\Users\yang\Desktop\新しいフォルダー (5)\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.SensorTest_form.resources
+C:\Users\yang\Desktop\新しいフォルダー (5)\Sensor\sensor_control_test\KeyenceSensorTest\bin\Debug\KeyenceSensorTest.exe.config
+C:\Users\yang\Desktop\新しいフォルダー (5)\Sensor\sensor_control_test\KeyenceSensorTest\bin\Debug\KeyenceSensorTest.exe
+C:\Users\yang\Desktop\新しいフォルダー (5)\Sensor\sensor_control_test\KeyenceSensorTest\bin\Debug\KeyenceSensorTest.pdb
+C:\Users\yang\Desktop\新しいフォルダー (5)\Sensor\sensor_control_test\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.csprojAssemblyReference.cache
+C:\Users\yang\Desktop\新しいフォルダー (5)\Sensor\sensor_control_test\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.SensorTest_form.resources
+C:\Users\yang\Desktop\新しいフォルダー (5)\Sensor\sensor_control_test\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.Properties.Resources.resources
+C:\Users\yang\Desktop\新しいフォルダー (5)\Sensor\sensor_control_test\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.csproj.GenerateResource.cache
+C:\Users\yang\Desktop\新しいフォルダー (5)\Sensor\sensor_control_test\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.csproj.CoreCompileInputs.cache
+C:\Users\yang\Desktop\新しいフォルダー (5)\Sensor\sensor_control_test\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.exe
+C:\Users\yang\Desktop\新しいフォルダー (5)\Sensor\sensor_control_test\KeyenceSensorTest\obj\Debug\KeyenceSensorTest.pdb
